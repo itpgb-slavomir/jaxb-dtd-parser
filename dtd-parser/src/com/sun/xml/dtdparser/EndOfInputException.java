@@ -42,6 +42,6 @@ package com.sun.xml.dtdparser;
 
 import java.io.IOException;
 
-class EndOfInputException extends IOException {
+class EndOfInputException extends IOException
+{
 }
-

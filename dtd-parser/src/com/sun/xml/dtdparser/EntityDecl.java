@@ -47,8 +47,9 @@ package com.sun.xml.dtdparser;
  * @author Janet Koenig
  * @version 1.3 00/02/24
  */
-class EntityDecl {
-    String name;        // <!ENTITY name ... >
+class EntityDecl
+{
+	String name; // <!ENTITY name ... >
 
-    boolean isPE;
+	boolean isPE;
 }

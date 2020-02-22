@@ -1,0 +1,15 @@
+com/sun/xml/dtdparser/XmlReader.class
+com/sun/xml/dtdparser/InternalEntity.class
+com/sun/xml/dtdparser/MessageCatalog.class
+com/sun/xml/dtdparser/XmlChars.class
+com/sun/xml/dtdparser/Resolver.class
+com/sun/xml/dtdparser/XmlReader$BaseReader.class
+com/sun/xml/dtdparser/SimpleHashtable$Entry.class
+com/sun/xml/dtdparser/XmlReader$AsciiReader.class
+com/sun/xml/dtdparser/EntityDecl.class
+com/sun/xml/dtdparser/EndOfInputException.class
+com/sun/xml/dtdparser/XmlNames.class
+com/sun/xml/dtdparser/DTDParser$1.class
+com/sun/xml/dtdparser/XmlReader$Iso8859_1Reader.class
+com/sun/xml/dtdparser/SimpleHashtable.class
+com/sun/xml/dtdparser/XmlReader$Utf8Reader.class
